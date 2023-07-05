@@ -39,7 +39,6 @@ img{
 }
 
 .title {
-    padding: 10px 20px 0px 20px;
     display: flex;
     flex-direction: column;
     color: #0a164a;
@@ -54,5 +53,4 @@ img{
     color: #8c8c8c;
     font-size: 1rem;
     text-align: center;
-    padding: 0 20px;
 }
