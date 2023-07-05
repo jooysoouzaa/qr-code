@@ -26,7 +26,7 @@ img{
     justify-content: center;
     flex-direction: column;
     margin: 0 auto;
-    width: 320px;
+    max-width: 18rem;
     border-radius: 14px;
     background: #fff;
     box-shadow: 6px 5px 70px 0px rgba(39, 39, 39, 0.25);
